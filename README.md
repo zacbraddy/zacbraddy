@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zac Braddy</h1>
+<img src="/header.png" alt="Hi, I'm Zac Braddy" />
 <h3 align="center">Dad, Podcaster, Lead Software Engineer, Mutant Code Money</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zacbraddy&label=Profile%20views&color=258dd0&style=plastic" alt="zacbraddy" /> </p>
