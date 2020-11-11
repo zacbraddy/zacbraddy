@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [YAGNI and KISS: a complex look at the principles of simplicity](https://medium.com/koodoo/yagni-and-kiss-a-complex-look-at-the-principles-of-simplicity-c04f848fc1fd?source=rss-ba2fe0578346------2)
+- [House of cards architecture](https://medium.com/koodoo/house-of-cards-architecture-af88c39b679f?source=rss-ba2fe0578346------2)
+- [What failing the 100 Days of Code taught me](https://medium.com/@zackerthehacker/what-failing-the-100-days-of-code-taught-me-58edd6e05a4d?source=rss-ba2fe0578346------2)
+- [How to never get stuck in Vim again](https://medium.com/rightindem-design-team/how-to-never-get-stuck-in-vim-again-edaee4d632bd?source=rss-ba2fe0578346------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
